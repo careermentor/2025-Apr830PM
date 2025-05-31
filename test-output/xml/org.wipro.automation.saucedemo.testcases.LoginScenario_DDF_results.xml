@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.605">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc01_validate_valid_login_func"
+                time="0.571"
+                classname="org.wipro.automation.saucedemo.testcases.LoginScenario_DDF">
+            </testcase>
+            <testcase
+                name="tc01_validate_valid_login_func"
+                time="0.537"
+                classname="org.wipro.automation.saucedemo.testcases.LoginScenario_DDF">
+            </testcase>
+            <testcase
+                name="tc01_validate_valid_login_func"
+                time="0.497"
+                classname="org.wipro.automation.saucedemo.testcases.LoginScenario_DDF">
+            </testcase>
+</testsuite>
